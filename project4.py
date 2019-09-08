@@ -1,8 +1,4 @@
 #Jordan Young
-#69691458
-#User Interface module
-
-#4 rows 3 columns
 
 import project4_game_mechanics
 
