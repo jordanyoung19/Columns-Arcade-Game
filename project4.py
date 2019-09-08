@@ -1,5 +1,3 @@
-#Jordan Young
-
 import project4_game_mechanics
 
 def run():
