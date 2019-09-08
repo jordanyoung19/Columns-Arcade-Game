@@ -1,9 +1,3 @@
-#Jordan Young
-#69691458
-#Game Mechanics
-
-
-
 class gameState:
     def __init__(self, rows, columns, contents):
         self._numRows = rows
